@@ -12,7 +12,7 @@
 
 #### Chapman ECG Dataset
 
-#### Author Extracted/Provided Features
+#### Author Extracted/Provided Features (11 + 2 features)
 
 
 | Model         | Accuracy (OFFLINE) | Precision (OFFLINE) | Execution Speed (&mu;s) | Memory Used (KB) (Total) | Flash Size (KB) (Total) | Power consumption | Frequency (DFS OFF) |
