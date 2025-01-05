@@ -37,14 +37,7 @@
         </div>
 </h4>
 
-This is a standard [platformio](https://platformio.org/) project for `esp32-s3-devkitc-1`
-dev board which deploys a full 8-bit integer quantized
-[MLP Model](include/quantized_8_bit_model_mlp.h) to ESP32-S3 chip
-and collects all necessary performance metrics including the quantization process
-and MLP model's per [ops](https://www.tensorflow.org/api_docs/cc/namespace/tensorflow/ops)
-wise execution time.
-For model training etc., please refer to
-[this repository](https://github.com/low-compute-har/MLModels).
+TBA.
 
 &#160;
 
