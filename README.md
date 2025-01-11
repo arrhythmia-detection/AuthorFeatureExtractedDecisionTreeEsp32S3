@@ -37,11 +37,15 @@
         </div>
 </h4>
 
-TBA.
+This is a standard [platformio](https://platformio.org/) project for `esp32-s3-devkitc-1`
+board which deploys a vanilla [Decision Tree](include/author_provided_feat_dt_v1.h) (*non optimized*) to ESP32-S3 chip
+and collects necessary performance metrics (see [Collected Metrics](CollectedMetrics.md)).
+For model training etc., please refer to
+[this repository](https://github.com/arrhythmia-detection/ArrhythmiaDetectionModels).
 
 &#160;
 
-<div align="center">Copyright &copy; 2024-present 
+<div align="center">Copyright &copy; 2025-present 
      <a href="https://github.com/Inmoresentum" target="_blank">Inmoresentum</a> and Contributors
 </div>
 
